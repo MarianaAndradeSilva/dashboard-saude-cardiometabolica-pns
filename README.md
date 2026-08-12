@@ -2,18 +2,17 @@
 
 ## Objetivo de Desenvolvimento Sustentável (ODS)
 
-Este projeto está alinhado ao **ODS 3 — Saúde e Bem-Estar**, que busca assegurar
+Este projeto está de acordo com **ODS 3 — Saúde e Bem-Estar**, que busca garantir
 uma vida saudável e promover o bem-estar para todos, em todas as idades.
 
 ## Problema
 
-Doenças crônicas não transmissíveis — como hipertensão, diabetes, colesterol
-alto e doenças cardiovasculares — representam uma das principais causas de
+Doenças crônicas não transmissíveis como hipertensão, diabetes, colesterol
+alto e doenças cardiovasculares representam uma das principais causas de
 morbimortalidade no Brasil, e sua prevalência está fortemente associada a
 fatores demográficos e socioeconômicos, como idade, escolaridade e região do
 país. No entanto, esses dados costumam estar disponíveis apenas em relatórios
-estáticos e pouco acessíveis, dificultando a análise exploratória por parte de
-gestores de saúde pública, pesquisadores e estudantes.
+estáticos e pouco acessíveis, dificultando a análise exploratória.
 
 ## Tipo de solução
 
@@ -54,9 +53,8 @@ dinamicamente, favorecendo a tomada de decisão baseada em evidências.
 | RNF02 | O tempo de carregamento inicial dos dados não deve ultrapassar 5 segundos |
 | RNF03 | A aplicação deve garantir o anonimato dos dados, sem exibir identificadores individuais |
 | RNF04 | A interface deve utilizar linguagem clara e acessível |
-| RNF05 | O código-fonte deve seguir boas práticas de organização (separação entre dados e visualização) |
-| RNF06 | A aplicação deve ser desenvolvida em Python, utilizando Streamlit |
-| RNF07 | O repositório deve conter documentação suficiente para rodar a aplicação localmente |
+| RNF05 | A aplicação deve ser desenvolvida em Python, utilizando Streamlit |
+| RNF06 | O repositório deve conter documentação suficiente para rodar a aplicação localmente |
 
 ## Diagrama de Caso de Uso
 
